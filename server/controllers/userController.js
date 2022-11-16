@@ -1,4 +1,4 @@
-const { User, Stats, Achievements } = require('../models/models')
+const { User, Stats, Achievements } = require('../models/models');
 const ApiErorr = require('../error/ApiError');
 const bcrypt = require('bcrypt');
 const FillElements = require('../middleware/FillElements');

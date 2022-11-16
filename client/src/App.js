@@ -30,6 +30,6 @@ const App = observer(() => {
     </BrowserRouter>
 
   );
-});
+})
 
 export default App;
